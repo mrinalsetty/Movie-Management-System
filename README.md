@@ -1,2 +1,5 @@
-# Movie-Management-System
-Web based project to categorize movies, manage them in their wish-list and, provide the user with a great user experience. It is built using HTML, CSS, Python, and SQL (Visual Studio Code, MySQL and Flask).
+# Music-playlist
+user can access the information of the songs based on the genre.
+user can create a playlist of his own and delete songs from that playlist ,only when he logs-in.
+user can directly access the youtube links of the desired songs ,once he logs in.
+This is a web application using MySQL database and flask.
